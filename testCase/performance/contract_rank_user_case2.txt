@@ -1,0 +1,27 @@
+['按用户查看1月回款金额']工作台对比: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '1000.0', 'percentage_data': '1.6'}Actual_result:'
+'{'count': '0.0', ' user_name': '设计部-用户1', 'goal_data': '0.0', 'percentage_data': 'None'},2019-02-21 14:05:57.482000
+['按用户查看1月回款金额']工作台对比: is wrong, expected_result:'
+'{'count': '14.0', ' user_name': '同部门下属-用户7', 'goal_data': '1000.0', 'percentage_data': '1.4'}Actual_result:'
+'{'count': '0.0', ' user_name': '产品部-用户3', 'goal_data': '0.0', 'percentage_data': 'None'},2019-02-21 14:05:57.484000
+['按用户查看1月回款金额']工作台对比: is wrong, expected_result:'
+'{'count': '12.0', ' user_name': '主辅部门-用户6', 'goal_data': '1000.0', 'percentage_data': '1.2'}Actual_result:'
+'{'count': '0.0', ' user_name': '主辅部门-用户6', 'goal_data': '0.0', 'percentage_data': 'None'},2019-02-21 14:05:57.486000
+['按用户查看第一季度回款金额']工作台对比: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '3000.0', 'percentage_data': '1.1'}Actual_result:'
+'{'count': '0.0', ' user_name': '设计部-用户1', 'goal_data': '0.0', 'percentage_data': 'None'},2019-02-21 14:05:58.872000
+['按用户查看第一季度回款金额']工作台对比: is wrong, expected_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7', 'goal_data': '3000.0', 'percentage_data': '0.9'}Actual_result:'
+'{'count': '0.0', ' user_name': '产品部-用户3', 'goal_data': '0.0', 'percentage_data': 'None'},2019-02-21 14:05:58.873000
+['按用户查看第一季度回款金额']工作台对比: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6', 'goal_data': '3000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '0.0', ' user_name': '主辅部门-用户6', 'goal_data': '0.0', 'percentage_data': 'None'},2019-02-21 14:05:58.875000
+['按用户查看本年回款金额']工作台对比: is wrong, expected_result:'
+'{'count': '96.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '12000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '0.0', ' user_name': '设计部-用户1', 'goal_data': '0.0', 'percentage_data': 'None'},2019-02-21 14:06:00.305000
+['按用户查看本年回款金额']工作台对比: is wrong, expected_result:'
+'{'count': '84.0', ' user_name': '同部门下属-用户7', 'goal_data': '12000.0', 'percentage_data': '0.7'}Actual_result:'
+'{'count': '0.0', ' user_name': '产品部-用户3', 'goal_data': '0.0', 'percentage_data': 'None'},2019-02-21 14:06:00.306000
+['按用户查看本年回款金额']工作台对比: is wrong, expected_result:'
+'{'count': '72.0', ' user_name': '主辅部门-用户6', 'goal_data': '12000.0', 'percentage_data': '0.6'}Actual_result:'
+'{'count': '0.0', ' user_name': '主辅部门-用户6', 'goal_data': '0.0', 'percentage_data': 'None'},2019-02-21 14:06:00.307000

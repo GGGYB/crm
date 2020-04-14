@@ -1,0 +1,132 @@
+['按部门查看1月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:10.172000
+['按部门查看1月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '183333.0', 'percentage_data': '0.6'},2019-02-19 17:07:10.175000
+['按部门查看1月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:10.178000
+['按部门查看1月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '860.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:10.181000
+['按部门查看1月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:10.183000
+['按部门查看1月商机金额']中间统计排名: is wrong, expected_result:'
+'{'count': '4466', 'goal_data': '5000', 'percentage_data': '89.3'}Actual_result:'
+'{'count': '4466', 'goal_data': '183333', 'percentage_data': '2.4'},2019-02-19 17:07:10.185000
+['按部门查看1月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:10.186000
+['按部门查看1月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '183333.0', 'percentage_data': '0.6'},2019-02-19 17:07:10.190000
+['按部门查看1月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:10.193000
+['按部门查看1月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '860.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:10.195000
+['按部门查看1月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:10.197000
+['按部门查看3月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:11.624000
+['按部门查看3月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '183333.0', 'percentage_data': '1.2'},2019-02-19 17:07:11.626000
+['按部门查看3月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:11.628000
+['按部门查看3月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1720.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:11.630000
+['按部门查看3月商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:11.632000
+['按部门查看3月商机金额']中间统计排名: is wrong, expected_result:'
+'{'count': '8932', 'goal_data': '5000', 'percentage_data': '178.6'}Actual_result:'
+'{'count': '8932', 'goal_data': '183333', 'percentage_data': '4.9'},2019-02-19 17:07:11.634000
+['按部门查看3月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:11.637000
+['按部门查看3月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '183333.0', 'percentage_data': '1.2'},2019-02-19 17:07:11.639000
+['按部门查看3月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:11.642000
+['按部门查看3月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1720.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:11.645000
+['按部门查看3月商机金额']表格排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:11.647000
+['按部门查看第一季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:13.101000
+['按部门查看第一季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '549999.0', 'percentage_data': '0.6'},2019-02-19 17:07:13.103000
+['按部门查看第一季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:13.106000
+['按部门查看第一季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2580.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:13.108000
+['按部门查看第一季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:13.110000
+['按部门查看第一季度商机金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13398', 'goal_data': '549999', 'percentage_data': '2.4'},2019-02-19 17:07:13.112000
+['按部门查看第一季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:13.115000
+['按部门查看第一季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '549999.0', 'percentage_data': '0.6'},2019-02-19 17:07:13.117000
+['按部门查看第一季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:13.119000
+['按部门查看第一季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2580.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:13.121000
+['按部门查看第一季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:13.124000
+['按部门查看第二季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:14.541000
+['按部门查看第二季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '549999.0', 'percentage_data': '0.6'},2019-02-19 17:07:14.542000
+['按部门查看第二季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:14.544000
+['按部门查看第二季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2580.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:14.547000
+['按部门查看第二季度商机金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 17:07:14.549000
+['按部门查看第二季度商机金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13398', 'goal_data': '549999', 'percentage_data': '2.4'},2019-02-19 17:07:14.551000
+['按部门查看第二季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:14.553000
+['按部门查看第二季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '549999.0', 'percentage_data': '0.6'},2019-02-19 17:07:14.555000
+['按部门查看第二季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:14.557000
+['按部门查看第二季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2580.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:14.559000
+['按部门查看第二季度商机金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 17:07:14.561000

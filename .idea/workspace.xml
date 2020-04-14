@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c028598-f25f-4e37-9f82-2cbe0b1b34c1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../APITest/case/status_code_ok.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_amount.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_amount_d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank/contract_rank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank/contract_rank_user_case1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank/contract_rank_user_case2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank/result_received_payments_amount_department_case1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank/result_received_payments_amount_department_case2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank/result_received_payments_amount_user_case1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank/result_received_payments_amount_user_case2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank_d_case1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank_d_case2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/contract_rank_user_case2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/opportunities_amount.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/opportunities_amount_d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/opportunities_number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_amount_d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/product_category_amount.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_number/opportunities_number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_number/product_category_count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_number/product_category_count_d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_number/status_code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_number/status_code_ok.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_category_amount.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_category_amount_d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_category_count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_category_count_d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_count_d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_money.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/product_number/product_count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/contract_amount.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_number/contract_count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_number/opportunities_number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/opportunities_number_d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/opportunities_amount.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/result_product_amount/product_amount_d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/performance/result_product_amount/product_money.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study/SQL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/.idea/APITest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/.idea/APITest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/case/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/case/123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/case/Testapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/case/Testapi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/case/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/case/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/co/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/co/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/co/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/co/const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/co/datas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/co/datas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/co/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/co/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/co/send.py" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/co/send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/datasource/TestInput.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/datasource/TestInput.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/run_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/run_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APITest/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../APITest/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/regressionTestingApi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/regressionTestingApi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/commons/const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/contracts/testAddContract.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/contracts/testAddContract.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/leads/testAddLead.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/leads/testAddLead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/leads/testGetLeads.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/leads/testGetLeads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/leads/testLead.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/leads/testLead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/login/testLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/login/testLogin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/opportunities/testAddOpportunity.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/opportunities/testAddOpportunity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/contraces_amount.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/contract_rank/result_received_payments_amount_departments_case2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/contract_rank/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/contract_rank/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/contract_rank/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/contract_rank/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/contracts_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/contracts_amount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/contracts_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/contracts_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/opportunities_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/opportunities_amount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/opportunities_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/opportunities_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/category_money_amount.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/result_product_category_money_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/result_product_category_money_amount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/result_product_category_money_amount_departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/result_product_category_money_amount_departments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_amount/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_catagory_number/result_product_category_count_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_number/result_product_category_count_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_catagory_number/result_product_category_count_number_departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_catagory_number/result_product_category_count_number_departments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_category_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_category_amount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_category_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_category_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_number/result_product_count_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_number/result_product_count_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_number/result_product_count_number_departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_number/result_product_count_number_departments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_number/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_number/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/product_number/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/product_number/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/products_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/products_amount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/products_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/products_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/received_payments_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/received_payments_amount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/contracts_amount.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/result_contracts_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/result_contracts_amount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/result_contracts_amount_departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/result_contracts_amount_departments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_amount/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_contracts_number/result_contract_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_number/result_contract_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_contracts_number/result_contract_number_departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_number/result_contract_number_departments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_contracts_number/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_number/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_contracts_number/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_contracts_number/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/opportunities_number.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/opportunities_number.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/opportunities_number_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/opportunities_number_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/result_opportunities_number_departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/result_opportunities_number_departments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/result_win_count_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/result_win_count_month.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opportunities_number/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/contraces_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/contract_rank_user_case1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/oppotunitites_amount.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/result_oppotunitites_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/result_oppotunitites_amount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/result_oppotunitites_amount_departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/result_oppotunitites_amount_departments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_product_amount/product_money_amount.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_product_amount/result_product_money_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_product_amount/result_product_money_amount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_product_amount/result_product_money_amount_departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_product_amount/result_product_money_amount_departments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_product_amount/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_product_amount/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/result_product_amount/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/result_product_amount/status_code_ok.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/status_code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/status_code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/performance/status_code_ok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/performance/status_code_ok.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_received_payments_amount_user_case2.coverage" NAME="result_received_payments_amount_user_case2 Coverage Results" MODIFIED="1550543034607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/contract_rank" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$opportunities_number_user.coverage" NAME="opportunities_number_user Coverage Results" MODIFIED="1550553913757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opportunities_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$opportunities_amount.coverage" NAME="opportunities_amount Coverage Results" MODIFIED="1550567484338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$received_payments_amount.coverage" NAME="received_payments_amount Coverage Results" MODIFIED="1550729197852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$test234.coverage" NAME="test234 Coverage Results" MODIFIED="1550055751090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_opportunities_number_departments.coverage" NAME="result_opportunities_number_departments Coverage Results" MODIFIED="1550469473139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opportunities_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$123.coverage" NAME="123 Coverage Results" MODIFIED="1550225709422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$testGetRoles.coverage" NAME="testGetRoles Coverage Results" MODIFIED="1548305399615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/roles" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$testGetDepartment.coverage" NAME="testGetDepartment Coverage Results" MODIFIED="1547460873379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/departments" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_oppotunitites_money_quarter.coverage" NAME="result_oppotunitites_money_quarter Coverage Results" MODIFIED="1548414942086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_category_count_number_departments.coverage" NAME="result_product_category_count_number_departments Coverage Results" MODIFIED="1550630461465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/product_catagory_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$contracts_number.coverage" NAME="contracts_number Coverage Results" MODIFIED="1550572125931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_oppotunitites_money_month.coverage" NAME="result_oppotunitites_money_month Coverage Results" MODIFIED="1548415377884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_money_amount_departments.coverage" NAME="result_product_money_amount_departments Coverage Results" MODIFIED="1550481679145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_product_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_category_money_amount.coverage" NAME="result_product_category_money_amount Coverage Results" MODIFIED="1550483177093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/product_catagory_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_oppotunitites_amount_departments.coverage" NAME="result_oppotunitites_amount_departments Coverage Results" MODIFIED="1548416244274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_win_count_year.coverage" NAME="result_win_count_year Coverage Results" MODIFIED="1548505263949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opportunities_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$opportunities.coverage" NAME="opportunities Coverage Results" MODIFIED="1547117516957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance objectives" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$contracts_amount.coverage" NAME="contracts_amount Coverage Results" MODIFIED="1550565300500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_received_payments_amount_departments_case2.coverage" NAME="result_received_payments_amount_departments_case2 Coverage Results" MODIFIED="1548382599858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/contract_rank" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$testLogin.coverage" NAME="testLogin Coverage Results" MODIFIED="1548049737470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/login" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_count_month.coverage" NAME="result_contract_count_month Coverage Results" MODIFIED="1548425237683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_rank_year_case2.coverage" NAME="result_contract_rank_year_case2 Coverage Results" MODIFIED="1548382902380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/contract_rank" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_number_departments.coverage" NAME="result_contract_number_departments Coverage Results" MODIFIED="1548425716630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result1.coverage" NAME="result1 Coverage Results" MODIFIED="1550051130085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_win_count_month.coverage" NAME="result_win_count_month Coverage Results" MODIFIED="1548504732640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opportunities_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_money_amount.coverage" NAME="result_product_money_amount Coverage Results" MODIFIED="1550540397277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_product_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$contracts_amount__1_.coverage" NAME="contracts_amount (1) Coverage Results" MODIFIED="1547635458790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$12312.coverage" NAME="12312 Coverage Results" MODIFIED="1547460340092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_opportunities_number.coverage" NAME="result_opportunities_number Coverage Results" MODIFIED="1548502964924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opportunities_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_category_money_month.coverage" NAME="result_product_category_money_month Coverage Results" MODIFIED="1548653016214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/product_catagory_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_received_payments_amount_user_case1.coverage" NAME="result_received_payments_amount_user_case1 Coverage Results" MODIFIED="1550649056586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/contract_rank" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$testlogind.coverage" NAME="testlogind Coverage Results" MODIFIED="1563417489413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/JxcTesting/TestMain" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_rank_month_case2.coverage" NAME="result_contract_rank_month_case2 Coverage Results" MODIFIED="1548382966223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/contract_rank" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_count_year.coverage" NAME="result_contract_count_year Coverage Results" MODIFIED="1548425456781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_category_money_quarter.coverage" NAME="result_product_category_money_quarter Coverage Results" MODIFIED="1548668176834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/product_catagory_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_received_payments_amount_case2.coverage" NAME="result_received_payments_amount_case2 Coverage Results" MODIFIED="1548382367780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/contract_rank" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_money_month.coverage" NAME="result_contract_money_month Coverage Results" MODIFIED="1548511964490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_category_money_amount_departments.coverage" NAME="result_product_category_money_amount_departments Coverage Results" MODIFIED="1548665962613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/product_catagory_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result.coverage" NAME="result Coverage Results" MODIFIED="1550670022867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$main.coverage" NAME="main Coverage Results" MODIFIED="1563270810894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_category_count_number.coverage" NAME="result_product_category_count_number Coverage Results" MODIFIED="1550629754036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/product_catagory_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$product_category_count.coverage" NAME="product_category_count Coverage Results" MODIFIED="1550802554737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_received_payments_amount.coverage" NAME="result_received_payments_amount Coverage Results" MODIFIED="1548293811059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$product_category_amount.coverage" NAME="product_category_amount Coverage Results" MODIFIED="1550748669220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_money_year.coverage" NAME="result_contract_money_year Coverage Results" MODIFIED="1548512218820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$testOrganization.coverage" NAME="testOrganization Coverage Results" MODIFIED="1547017738994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance objectives" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_rank_quarter_case2.coverage" NAME="result_contract_rank_quarter_case2 Coverage Results" MODIFIED="1548383273678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/contract_rank" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contracts_amount__1_.coverage" NAME="result_contracts_amount (1) Coverage Results" MODIFIED="1547628439899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contracts_amount.coverage" NAME="result_contracts_amount Coverage Results" MODIFIED="1550648946975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_win_count_quarter.coverage" NAME="result_win_count_quarter Coverage Results" MODIFIED="1548505000120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opportunities_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_oppotunitites_money_year.coverage" NAME="result_oppotunitites_money_year Coverage Results" MODIFIED="1548415624865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$products_amount.coverage" NAME="products_amount Coverage Results" MODIFIED="1550745545657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_oppotunitites_amount.coverage" NAME="result_oppotunitites_amount Coverage Results" MODIFIED="1550556361267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_opprtunities_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_count_number.coverage" NAME="result_product_count_number Coverage Results" MODIFIED="1550367764030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/product_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_category_money_year.coverage" NAME="result_product_category_money_year Coverage Results" MODIFIED="1548670092541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/product_catagory_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_count_quarter.coverage" NAME="result_contract_count_quarter Coverage Results" MODIFIED="1548425419650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contracts_amount_departments.coverage" NAME="result_contracts_amount_departments Coverage Results" MODIFIED="1548511696254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_money_quarter.coverage" NAME="result_contract_money_quarter Coverage Results" MODIFIED="1548512295591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_amount" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$testOpportunityApproval.coverage" NAME="testOpportunityApproval Coverage Results" MODIFIED="1530769889937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/approvals" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_product_count_month.coverage" NAME="result_product_count_month Coverage Results" MODIFIED="1548676822972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/product_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$opportunities_number.coverage" NAME="opportunities_number Coverage Results" MODIFIED="1550650593352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result__1_.coverage" NAME="result (1) Coverage Results" MODIFIED="1547607782305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$testAddOpportunitie.coverage" NAME="testAddOpportunitie Coverage Results" MODIFIED="1530613531473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/opportunities" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$result_contract_number.coverage" NAME="result_contract_number Coverage Results" MODIFIED="1550628278773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance/result_contracts_number" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$const.coverage" NAME="const Coverage Results" MODIFIED="1530603327934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commons" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$12314.coverage" NAME="12314 Coverage Results" MODIFIED="1548061246389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$products_count.coverage" NAME="products_count Coverage Results" MODIFIED="1550805597513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/performance" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="regressionTestingApi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1083">
+              <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+              <folding>
+                <element signature="e#66#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/leads/testLead.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+              <folding>
+                <element signature="e#51#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/leads/testAddLead.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commons/const.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testCase/login/testLogin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="56" column="46" lean-forward="true" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/status_code_ok.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commons/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4807">
+              <caret line="260" column="58" selection-start-line="260" selection-start-column="58" selection-end-line="260" selection-end-column="58" />
+              <folding>
+                <element signature="e#51#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/users/testGetUser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id = _AddContract</find>
+      <find>add_contracts</find>
+      <find>add_data</find>
+      <find>uc</find>
+      <find>type</find>
+      <find>login.uc</find>
+      <find>28</find>
+      <find>check</find>
+      <find>scope_unit</find>
+      <find>count_get</find>
+      <find>产品</find>
+      <find>s=4</find>
+      <find>print (i, a)</find>
+      <find>跟进状态</find>
+      <find>data-fieldvalue-id</find>
+      <find>Actual_body</find>
+      <find>86</find>
+      <find>html_str</find>
+      <find>authorization</find>
+      <find>given_cookie</find>
+      <find>csrf</find>
+      <find>self.token</find>
+      <find>self.authorization</find>
+      <find>ticket</find>
+      <find>status_code_ok</find>
+      <find>get_today_str</find>
+      <find>check_same</find>
+      <find>D(str(base_value1))</find>
+      <find>str(base_value1)</find>
+      <find>check_status_code</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>opportunity</replace>
+      <replace>stage=stage_win</replace>
+      <replace>商机金额</replace>
+      <replace>contract</replace>
+      <replace>商机</replace>
+      <replace>stage_win</replace>
+      <replace>login</replace>
+      <replace>合同数</replace>
+      <replace>self</replace>
+      <replace>contract_return_id</replace>
+      <replace>contract_id=contract_return_id[1]</replace>
+      <replace>customer_id=contract_return_id[1]</replace>
+      <replace>contract_return_id[1]</replace>
+      <replace>回款</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testCase/performance/result_opportunities_number/opportunities_number_user.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/result_opportunities_number/opportunities_number_user.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/contract_rank_user_case1.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/contract_rank/result_received_payments_amount_user_case2.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/contract_rank/result_received_payments_amount_department_case2.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/contract_rank_d_case2.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/contract_rank_user_case2.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/contracts_amount.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/result_product_amount/result_product_money_amount_departments.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_amount_d.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_money.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/result_product_amount/result_product_money_amount.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_catagory_amount/result_product_category_money_amount.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_catagory_amount/result_product_category_money_amount_departments.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_category_amount_d.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_catagory_number/result_product_category_count_number.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_category_amount.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_catagory_number/result_product_category_count_number_departments.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_category_count.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_category_count_d.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_number/result_product_count_number.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_count.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_number/result_product_count_number_departments.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_count_d.txt" />
+        <option value="$PROJECT_DIR$/testCase/performance/received_payments_amount.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/products_count.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/products_amount.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_category_count.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/product_category_amount.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/opportunities_number.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/opportunities_amount.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/contracts_number.py" />
+        <option value="$PROJECT_DIR$/testCase/performance/result.py" />
+        <option value="$PROJECT_DIR$/testCase/revisit_logs/test_add_revisit_logs.py" />
+        <option value="$PROJECT_DIR$/testCase/leads/testGetLeads.py" />
+        <option value="$PROJECT_DIR$/testCase/revisit_logs/testAddRevisitLogs.py" />
+        <option value="$USER_HOME$/Desktop/ikcrm/testRe.py" />
+        <option value="$PROJECT_DIR$/testCase/honorList/getRank.py" />
+        <option value="$PROJECT_DIR$/testCase/leads/lo.py" />
+        <option value="$PROJECT_DIR$/testCase/leads/testlogin.py" />
+        <option value="$PROJECT_DIR$/testCase/leads/testLead.py" />
+        <option value="$PROJECT_DIR$/commons/common.py" />
+        <option value="$PROJECT_DIR$/testCase/leads/testAddLead.py" />
+        <option value="$PROJECT_DIR$/testCase/login/testLogin.py" />
+        <option value="$PROJECT_DIR$/commons/const.py" />
+        <option value="$USER_HOME$/Desktop/JxcTesting/TestMain/testlogind.py" />
+        <option value="D:/lxy/Python-100-Days/Day01-15/code/hello.py" />
+        <option value="D:/usable/Sharon/Bug_Statistics.py" />
+        <option value="$PROJECT_DIR$/status_code.txt" />
+        <option value="$PROJECT_DIR$/status_code_ok.txt" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="regressionTestingApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regressionTestingApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regressionTestingApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regressionTestingApi" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regressionTestingApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regressionTestingApi" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../API" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Bug_Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="regressionTestingApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/usable/Sharon" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/usable/Sharon/Bug_Statistics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="regressionTestingApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_category_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="regressionTestingApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/performance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCase/performance/product_category_count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="products_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="regressionTestingApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/performance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCase/performance/products_count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testlogind" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="regressionTestingApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/JxcTesting/TestMain" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/JxcTesting/TestMain/testlogind.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.products_count" />
+      <item itemvalue="Python.product_category_count" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.testlogind" />
+      <item itemvalue="Python.Bug_Statistics" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Bug_Statistics" />
+        <item itemvalue="Python.testlogind" />
+        <item itemvalue="Python.products_count" />
+        <item itemvalue="Python.product_category_count" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c028598-f25f-4e37-9f82-2cbe0b1b34c1" name="Default" comment="" />
+      <created>1530840458233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530840458233</updated>
+      <workItem from="1584962881118" duration="788000" />
+      <workItem from="1585049937826" duration="1516000" />
+      <workItem from="1585107649188" duration="6218000" />
+      <workItem from="1585880454802" duration="1662000" />
+      <workItem from="1586432267661" duration="2001000" />
+      <workItem from="1586760743757" duration="3323000" />
+      <workItem from="1586841525219" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16168000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942726" visible="true" weight="0.14209116" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50057274" side_tool="true" weight="0.31567568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.5467422" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932126" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32918552" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50214595" side_tool="true" weight="0.21764033" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32996634" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32996634" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942726" visible="true" weight="0.28379828" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50057274" side_tool="true" weight="0.31567568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.31108597" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955106" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32918552" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50214595" side_tool="true" weight="0.21764033" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32996634" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32996634" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/JxcTesting/TestMain/testlogind.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/regressionTestingApi$main.coverage" NAME="main Coverage Results" MODIFIED="1586434164342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/regressionTestingApi$Bug_Statistics.coverage" NAME="Bug_Statistics Coverage Results" MODIFIED="1586432537764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/usable/Sharon" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>re.findall(r'window\.current_org_id\s+=\s+\'(\d+)',str(soup))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.findall(r'window\.current_org_id\s+=',str(soup))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.findall(r'window\.current_org_id\s\=',str(soup))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.findall(r'window\.current_org_id\s',str(soup))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.findall(r'window\.current_org_id\s=',str(soup))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.findall(r'window\.current_org_id =',str(soup))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.findall(r'window\.current_org_id',str(soup))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.findall(r'window\.current_org_id = ',str(soup))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>re.findall(r'window\.current_org_id = \'(\d+)',str(soup))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testCase/performance/product_catagory_number/result_product_category_count_number_departments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="62" column="49" lean-forward="true" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/product_category_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="208" column="69" selection-start-line="208" selection-start-column="69" selection-end-line="210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/product_catagory_amount/result_product_category_money_amount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="142" column="46" lean-forward="true" selection-start-line="142" selection-start-column="46" selection-end-line="142" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/product_catagory_amount/result_product_category_money_amount_departments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="68" column="55" selection-start-line="68" selection-start-column="55" selection-end-line="68" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/product_category_amount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="210" column="56" lean-forward="true" selection-start-line="210" selection-start-column="56" selection-end-line="210" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/result_opportunities_number/opportunities_number_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="145" column="44" lean-forward="true" selection-start-line="145" selection-start-column="44" selection-end-line="145" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/opportunities_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="169" column="41" lean-forward="true" selection-start-line="169" selection-start-column="41" selection-end-line="169" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/result_opportunities_number/result_opportunities_number_departments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/contracts_amount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4875">
+          <caret line="195" column="53" selection-start-line="195" selection-start-column="53" selection-end-line="195" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/result_contracts_amount/result_contracts_amount_departments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="68" column="47" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/result_contracts_amount/result_contracts_amount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3325">
+          <caret line="140" column="39" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/contracts_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4350">
+          <caret line="174" column="51" selection-start-line="174" selection-start-column="51" selection-end-line="174" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/result_contracts_number/result_contract_number_departments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/result_contracts_number/result_contract_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="145" column="45" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/opportunities_amount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3950">
+          <caret line="165" column="44" selection-start-line="165" selection-start-column="44" selection-end-line="165" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/result_oppotunitites_amount_departments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/result_opprtunities_amount/result_oppotunitites_amount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="142" column="43" selection-start-line="142" selection-start-column="43" selection-end-line="142" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/lead_commons/testLeadCommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="36" column="72" lean-forward="true" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/lead_commons/testUpdateLeadCommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1175">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/contracts/testSettingsContractsApproval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/contracts/testContract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/contracts/testGetContract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/revisit_logs/testAddRevisitLogs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ikcrm/testRe.py" />
+    <entry file="file://$PROJECT_DIR$/testCase/honorList/getRank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/leads/lo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/leads/testlogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/leads/testGetLeads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="359" selection-start-line="359" selection-end-line="359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/opportunities/testGetOpportunity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="80" column="54" lean-forward="true" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/customers/testGetCustomer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/requests/structures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/performance/result.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="1387" column="13" selection-start-line="1387" selection-start-column="13" selection-end-line="1387" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/JxcTesting/TestMain/crm_login.py" />
+    <entry file="file://$USER_HOME$/Desktop/JxcTesting/TestMain/testlogind.py" />
+    <entry file="file://D:/lxy/Python-100-Days/Day01-15/code/hello.py" />
+    <entry file="file://D:/Program Files/Python36/Lib/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="149" column="43" selection-start-line="149" selection-start-column="43" selection-end-line="149" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/usable/Sharon/Bug_Statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="85" column="56" lean-forward="true" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="56" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/requests/structures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/status_code.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+          <folding>
+            <element signature="e#66#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/leads/testLead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <element signature="e#51#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/leads/testAddLead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="66" column="43" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/const.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/status_code_ok.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4807">
+          <caret line="260" column="58" selection-start-line="260" selection-start-column="58" selection-end-line="260" selection-end-column="58" />
+          <folding>
+            <element signature="e#51#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/users/testGetUser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/login/testLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="56" column="46" lean-forward="true" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,60 @@
+['按用户查看1月产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:10.884000
+['按用户查看1月产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '4472', 'goal_data': '5000', 'percentage_data': '89.4'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:10.885000
+['按用户查看3月产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:12.216000
+['按用户查看3月产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '8944', 'goal_data': '5000', 'percentage_data': '178.9'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:12.218000
+['按用户查看第一季度产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:13.788000
+['按用户查看第一季度产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13416', 'goal_data': '5000', 'percentage_data': '268.3'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:13.790000
+['按用户查看第二季度产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:15.221000
+['按用户查看第二季度产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13416', 'goal_data': '5000', 'percentage_data': '268.3'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:15.223000
+['按用户查看第三季度产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:16.690000
+['按用户查看第三季度产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '40248', 'goal_data': '5000', 'percentage_data': '805.0'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:16.691000
+['按用户查看第四季度产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:17.958000
+['按用户查看第四季度产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26832', 'goal_data': '5000', 'percentage_data': '536.6'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:17.959000
+['按用户查看本年产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '3486.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:19.636000
+['按用户查看本年产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '93912', 'goal_data': '5000', 'percentage_data': '1878.2'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:19.637000
+['按用户查看上半年产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:21.152000
+['按用户查看上半年产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26832', 'goal_data': '5000', 'percentage_data': '536.6'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:21.154000
+['按用户1查看下半年产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '2490.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:22.685000
+['按用户1查看下半年产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '67080', 'goal_data': '5000', 'percentage_data': '1341.6'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:22.686000
+['按用户查看4~8月产品金额']图表的排名: is wrong, expected_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1162.0'}Actual_result:'
+'{'count': '', ' user_name': '', 'goal_data': '', 'percentage_data': '0.0'},2019-02-20 15:58:24.490000
+['按用户查看4~8月产品金额']中间统计排名: is wrong, expected_result:'
+'{'count': '31304', 'goal_data': '5000', 'percentage_data': '626.1'}Actual_result:'
+'{'count': '0', 'goal_data': '0', 'percentage_data': '--'},2019-02-20 15:58:24.492000

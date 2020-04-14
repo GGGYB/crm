@@ -1,0 +1,1714 @@
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:12.131000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 14:37:12.133000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:12.136000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:12.138000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:12.139000
+['按部门查看1月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '4466', 'goal_data': '5000', 'percentage_data': '89.3'}Actual_result:'
+'{'count': '4366', 'goal_data': '1000', 'percentage_data': '436.6'},2019-02-19 14:37:12.141000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:12.143000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 14:37:12.148000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:12.150000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:12.151000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:12.152000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:13.588000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 14:37:13.589000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:13.590000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:13.592000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:13.592000
+['按部门查看3月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '8932', 'goal_data': '5000', 'percentage_data': '178.6'}Actual_result:'
+'{'count': '8732', 'goal_data': '1000', 'percentage_data': '873.2'},2019-02-19 14:37:13.593000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:13.593000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 14:37:13.594000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:13.594000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:13.595000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:13.596000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:14.979000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:37:14.980000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:14.982000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:14.984000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:37:14.985000
+['按部门查看第一季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 14:37:14.987000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:14.989000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:37:14.991000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:14.993000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:14.995000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:37:14.997000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:50:58.333000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 14:50:58.334000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:50:58.336000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:50:58.337000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:50:58.339000
+['按部门查看1月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '4466', 'goal_data': '5000', 'percentage_data': '89.3'}Actual_result:'
+'{'count': '4366', 'goal_data': '1000', 'percentage_data': '436.6'},2019-02-19 14:50:58.340000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:50:58.342000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 14:50:58.343000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:50:58.345000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:50:58.346000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:50:58.348000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:00.183000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 14:51:00.185000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:00.187000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:00.189000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:00.192000
+['按部门查看3月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '8932', 'goal_data': '5000', 'percentage_data': '178.6'}Actual_result:'
+'{'count': '8732', 'goal_data': '1000', 'percentage_data': '873.2'},2019-02-19 14:51:00.194000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:00.195000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 14:51:00.196000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:00.197000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:00.198000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:00.200000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:01.708000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:51:01.711000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:01.713000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:01.715000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:01.716000
+['按部门查看第一季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 14:51:01.718000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:01.719000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:51:01.721000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:01.722000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:01.725000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:01.726000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:03.382000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:51:03.383000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:03.385000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:03.386000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:03.387000
+['按部门查看第二季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 14:51:03.389000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:03.390000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:51:03.392000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:03.393000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:03.395000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:03.396000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:04.777000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 14:51:04.779000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:04.780000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '6840.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:04.781000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:04.782000
+['按部门查看第三季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '40194', 'goal_data': '5000', 'percentage_data': '803.9'}Actual_result:'
+'{'count': '39294', 'goal_data': '3000', 'percentage_data': '1309.8'},2019-02-19 14:51:04.783000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:04.784000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 14:51:04.785000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:04.786000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '6840.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:04.787000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:04.789000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:06.218000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 14:51:06.219000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:06.220000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:06.221000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:06.222000
+['按部门查看第四季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26796', 'goal_data': '5000', 'percentage_data': '535.9'}Actual_result:'
+'{'count': '26196', 'goal_data': '3000', 'percentage_data': '873.2'},2019-02-19 14:51:06.223000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:06.224000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 14:51:06.226000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:06.227000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:06.228000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:06.229000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '3486.0'}Actual_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:07.763000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '22350.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '2235.0'}Actual_result:'
+'{'count': '22386.0', ' user_name': '产品部', 'goal_data': '12000.0', 'percentage_data': '186.6'},2019-02-19 14:51:07.765000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1890.0'}Actual_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:07.766000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '18096.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1809.6'}Actual_result:'
+'{'count': '15960.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:07.768000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-42.0'}Actual_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:07.769000
+['按部门查看本年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '93786', 'goal_data': '5000', 'percentage_data': '1875.7'}Actual_result:'
+'{'count': '91686', 'goal_data': '12000', 'percentage_data': '764.1'},2019-02-19 14:51:07.769000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '3486.0'}Actual_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:07.770000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '22350.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '2235.0'}Actual_result:'
+'{'count': '22386.0', ' user_name': '产品部', 'goal_data': '12000.0', 'percentage_data': '186.6'},2019-02-19 14:51:07.771000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1890.0'}Actual_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:07.771000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '18096.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1809.6'}Actual_result:'
+'{'count': '15960.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:07.772000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-42.0'}Actual_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:07.773000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:09.370000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6360.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '636.0'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '106.6'},2019-02-19 14:51:09.371000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:09.372000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5196.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '519.6'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:09.372000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:09.373000
+['按部门查看上半年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26796', 'goal_data': '5000', 'percentage_data': '535.9'}Actual_result:'
+'{'count': '26196', 'goal_data': '6000', 'percentage_data': '436.6'},2019-02-19 14:51:09.374000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:09.374000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6360.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '636.0'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '106.6'},2019-02-19 14:51:09.375000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:09.375000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5196.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '519.6'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:09.376000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:09.377000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '2490.0'}Actual_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:10.902000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '1599.0'}Actual_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '266.5'},2019-02-19 14:51:10.903000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1350.0'}Actual_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:10.904000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1290.0'}Actual_result:'
+'{'count': '11400.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:10.905000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-30.0'}Actual_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:10.905000
+['按部门1查看下半年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '66990', 'goal_data': '5000', 'percentage_data': '1339.8'}Actual_result:'
+'{'count': '65490', 'goal_data': '6000', 'percentage_data': '1091.5'},2019-02-19 14:51:10.906000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '2490.0'}Actual_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:10.906000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '1599.0'}Actual_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '266.5'},2019-02-19 14:51:10.907000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1350.0'}Actual_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:10.908000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1290.0'}Actual_result:'
+'{'count': '11400.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:10.908000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-30.0'}Actual_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:10.909000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1162.0'}Actual_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:12.333000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '7444.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '744.4'}Actual_result:'
+'{'count': '7462.0', ' user_name': '产品部', 'goal_data': '5000.0', 'percentage_data': '149.2'},2019-02-19 14:51:12.335000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '630.0'}Actual_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:12.336000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6038.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '603.8'}Actual_result:'
+'{'count': '5320.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:12.337000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-14.0'}Actual_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:12.339000
+['按部门查看4~8月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '31262', 'goal_data': '5000', 'percentage_data': '625.2'}Actual_result:'
+'{'count': '30562', 'goal_data': '5000', 'percentage_data': '611.2'},2019-02-19 14:51:12.340000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1162.0'}Actual_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:12.341000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '7444.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '744.4'}Actual_result:'
+'{'count': '7462.0', ' user_name': '产品部', 'goal_data': '5000.0', 'percentage_data': '149.2'},2019-02-19 14:51:12.342000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '630.0'}Actual_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:12.343000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6038.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '603.8'}Actual_result:'
+'{'count': '5320.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:12.345000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-14.0'}Actual_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:12.346000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:47.432000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 14:51:47.433000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:47.435000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:47.436000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:47.437000
+['按部门查看1月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '4466', 'goal_data': '5000', 'percentage_data': '89.3'}Actual_result:'
+'{'count': '4366', 'goal_data': '1000', 'percentage_data': '436.6'},2019-02-19 14:51:47.438000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:47.439000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 14:51:47.440000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:47.441000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:47.442000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:47.443000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:48.911000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 14:51:48.913000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:48.914000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:48.916000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:48.917000
+['按部门查看3月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '8932', 'goal_data': '5000', 'percentage_data': '178.6'}Actual_result:'
+'{'count': '8732', 'goal_data': '1000', 'percentage_data': '873.2'},2019-02-19 14:51:48.918000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:48.919000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 14:51:48.920000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:48.920000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:48.921000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:48.922000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:50.417000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:51:50.418000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:50.419000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:50.420000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:50.421000
+['按部门查看第一季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 14:51:50.422000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:50.423000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:51:50.424000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:50.425000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:50.426000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:50.427000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:52.087000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:51:52.089000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:52.090000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:52.091000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:52.092000
+['按部门查看第二季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 14:51:52.093000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:52.095000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:51:52.096000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:52.097000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:52.098000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:52.099000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:53.503000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 14:51:53.505000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:53.506000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '6840.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:53.508000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:53.508000
+['按部门查看第三季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '40194', 'goal_data': '5000', 'percentage_data': '803.9'}Actual_result:'
+'{'count': '39294', 'goal_data': '3000', 'percentage_data': '1309.8'},2019-02-19 14:51:53.509000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:53.511000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 14:51:53.512000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:53.514000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '6840.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:53.515000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:53.516000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:55.028000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 14:51:55.030000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:55.031000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:55.032000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:51:55.034000
+['按部门查看第四季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26796', 'goal_data': '5000', 'percentage_data': '535.9'}Actual_result:'
+'{'count': '26196', 'goal_data': '3000', 'percentage_data': '873.2'},2019-02-19 14:51:55.035000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:55.037000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 14:51:55.039000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:55.040000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:55.041000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:51:55.042000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:08.448000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 14:56:08.449000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:08.450000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:08.451000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:08.453000
+['按部门查看1月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '4466', 'goal_data': '5000', 'percentage_data': '89.3'}Actual_result:'
+'{'count': '4366', 'goal_data': '1000', 'percentage_data': '436.6'},2019-02-19 14:56:08.454000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:08.455000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 14:56:08.456000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:08.458000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:08.459000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:08.460000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:09.840000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 14:56:09.841000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:09.842000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:09.843000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:09.844000
+['按部门查看3月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '8932', 'goal_data': '5000', 'percentage_data': '178.6'}Actual_result:'
+'{'count': '8732', 'goal_data': '1000', 'percentage_data': '873.2'},2019-02-19 14:56:09.844000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:09.846000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 14:56:09.847000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:09.848000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:09.849000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:09.849000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:11.264000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:56:11.266000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:11.268000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:11.270000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:11.272000
+['按部门查看第一季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 14:56:11.274000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:11.276000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:56:11.278000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:11.280000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:11.282000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:11.283000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:12.608000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:56:12.610000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:12.611000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:12.612000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:12.613000
+['按部门查看第二季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 14:56:12.614000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:12.615000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 14:56:12.616000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:12.618000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:12.619000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:12.620000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:14.085000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 14:56:14.086000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:14.087000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '6840.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:14.089000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:14.090000
+['按部门查看第三季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '40194', 'goal_data': '5000', 'percentage_data': '803.9'}Actual_result:'
+'{'count': '39294', 'goal_data': '3000', 'percentage_data': '1309.8'},2019-02-19 14:56:14.091000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:14.093000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 14:56:14.094000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:14.095000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '6840.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:14.097000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:14.098000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:15.496000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 14:56:15.497000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:15.499000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:15.500000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:15.501000
+['按部门查看第四季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26796', 'goal_data': '5000', 'percentage_data': '535.9'}Actual_result:'
+'{'count': '26196', 'goal_data': '3000', 'percentage_data': '873.2'},2019-02-19 14:56:15.502000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:15.504000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 14:56:15.505000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:15.506000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:15.507000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:15.507000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '3486.0'}Actual_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:17.025000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '22350.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '2235.0'}Actual_result:'
+'{'count': '22386.0', ' user_name': '产品部', 'goal_data': '12000.0', 'percentage_data': '186.6'},2019-02-19 14:56:17.027000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1890.0'}Actual_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:17.029000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '18096.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1809.6'}Actual_result:'
+'{'count': '15960.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:17.030000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-42.0'}Actual_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:17.032000
+['按部门查看本年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '93786', 'goal_data': '5000', 'percentage_data': '1875.7'}Actual_result:'
+'{'count': '91686', 'goal_data': '12000', 'percentage_data': '764.1'},2019-02-19 14:56:17.036000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '3486.0'}Actual_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:17.038000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '22350.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '2235.0'}Actual_result:'
+'{'count': '22386.0', ' user_name': '产品部', 'goal_data': '12000.0', 'percentage_data': '186.6'},2019-02-19 14:56:17.040000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1890.0'}Actual_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:17.041000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '18096.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1809.6'}Actual_result:'
+'{'count': '15960.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:17.043000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-42.0'}Actual_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:17.046000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:18.415000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6360.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '636.0'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '106.6'},2019-02-19 14:56:18.416000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:18.417000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5196.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '519.6'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:18.419000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:18.421000
+['按部门查看上半年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26796', 'goal_data': '5000', 'percentage_data': '535.9'}Actual_result:'
+'{'count': '26196', 'goal_data': '6000', 'percentage_data': '436.6'},2019-02-19 14:56:18.422000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:18.423000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6360.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '636.0'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '106.6'},2019-02-19 14:56:18.425000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:18.426000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5196.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '519.6'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:18.427000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:18.428000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '2490.0'}Actual_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:19.803000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '1599.0'}Actual_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '266.5'},2019-02-19 14:56:19.804000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1350.0'}Actual_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:19.806000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1290.0'}Actual_result:'
+'{'count': '11400.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:19.807000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-30.0'}Actual_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:19.808000
+['按部门1查看下半年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '66990', 'goal_data': '5000', 'percentage_data': '1339.8'}Actual_result:'
+'{'count': '65490', 'goal_data': '6000', 'percentage_data': '1091.5'},2019-02-19 14:56:19.809000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '2490.0'}Actual_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:19.810000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '1599.0'}Actual_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '266.5'},2019-02-19 14:56:19.812000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1350.0'}Actual_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:19.812000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1290.0'}Actual_result:'
+'{'count': '11400.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:19.813000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-30.0'}Actual_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:19.814000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1162.0'}Actual_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:21.198000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '7444.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '744.4'}Actual_result:'
+'{'count': '7462.0', ' user_name': '产品部', 'goal_data': '5000.0', 'percentage_data': '149.2'},2019-02-19 14:56:21.199000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '630.0'}Actual_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:21.201000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6038.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '603.8'}Actual_result:'
+'{'count': '5320.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:21.202000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-14.0'}Actual_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 14:56:21.203000
+['按部门查看4~8月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '31262', 'goal_data': '5000', 'percentage_data': '625.2'}Actual_result:'
+'{'count': '30562', 'goal_data': '5000', 'percentage_data': '611.2'},2019-02-19 14:56:21.205000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1162.0'}Actual_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:21.207000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '7444.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '744.4'}Actual_result:'
+'{'count': '7462.0', ' user_name': '产品部', 'goal_data': '5000.0', 'percentage_data': '149.2'},2019-02-19 14:56:21.209000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '630.0'}Actual_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:21.212000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6038.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '603.8'}Actual_result:'
+'{'count': '5320.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:21.213000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-14.0'}Actual_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 14:56:21.215000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:12.727000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 15:44:12.729000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:12.731000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:12.734000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:12.736000
+['按部门查看1月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '4466', 'goal_data': '5000', 'percentage_data': '89.3'}Actual_result:'
+'{'count': '4366', 'goal_data': '1000', 'percentage_data': '436.6'},2019-02-19 15:44:12.738000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:12.740000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 15:44:12.741000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:12.742000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:12.742000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:12.743000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:14.231000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 15:44:14.233000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:14.236000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:14.238000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:14.241000
+['按部门查看3月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '8932', 'goal_data': '5000', 'percentage_data': '178.6'}Actual_result:'
+'{'count': '8732', 'goal_data': '1000', 'percentage_data': '873.2'},2019-02-19 15:44:14.243000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:14.244000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 15:44:14.246000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:14.248000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:14.250000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:14.253000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:15.689000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 15:44:15.691000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:15.692000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:15.694000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:44:15.698000
+['按部门查看第一季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 15:44:15.700000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:15.701000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 15:44:15.703000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:15.705000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:15.708000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:44:15.709000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:26.792000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 15:45:26.794000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:26.795000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:26.797000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:26.799000
+['按部门查看1月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '4466', 'goal_data': '5000', 'percentage_data': '89.3'}Actual_result:'
+'{'count': '4366', 'goal_data': '1000', 'percentage_data': '436.6'},2019-02-19 15:45:26.802000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:26.804000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 15:45:26.806000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:26.808000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '760.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:26.810000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:26.812000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:28.234000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 15:45:28.236000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:28.238000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:28.240000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:28.242000
+['按部门查看3月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '8932', 'goal_data': '5000', 'percentage_data': '178.6'}Actual_result:'
+'{'count': '8732', 'goal_data': '1000', 'percentage_data': '873.2'},2019-02-19 15:45:28.245000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:28.247000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 15:45:28.248000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:28.250000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1520.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:28.253000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:28.255000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:29.638000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 15:45:29.641000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:29.643000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:29.645000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:29.647000
+['按部门查看第一季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 15:45:29.649000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:29.652000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 15:45:29.655000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:29.656000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:29.658000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:29.661000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:31.088000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 15:45:31.090000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:31.092000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:31.095000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:31.097000
+['按部门查看第二季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13098', 'goal_data': '3000', 'percentage_data': '436.6'},2019-02-19 15:45:31.099000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:31.101000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 15:45:31.103000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:31.106000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2280.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:31.109000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:31.111000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:32.710000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 15:45:32.712000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:32.713000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '6840.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:32.714000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:32.716000
+['按部门查看第三季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '40194', 'goal_data': '5000', 'percentage_data': '803.9'}Actual_result:'
+'{'count': '39294', 'goal_data': '3000', 'percentage_data': '1309.8'},2019-02-19 15:45:32.717000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:32.719000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 15:45:32.720000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:32.721000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '6840.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:32.721000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:32.722000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:34.172000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 15:45:34.174000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:34.175000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:34.176000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:34.176000
+['按部门查看第四季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26796', 'goal_data': '5000', 'percentage_data': '535.9'}Actual_result:'
+'{'count': '26196', 'goal_data': '3000', 'percentage_data': '873.2'},2019-02-19 15:45:34.177000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:34.178000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 15:45:34.178000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:34.179000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:34.179000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:34.180000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '3486.0'}Actual_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:35.683000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '22350.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '2235.0'}Actual_result:'
+'{'count': '22386.0', ' user_name': '产品部', 'goal_data': '12000.0', 'percentage_data': '186.6'},2019-02-19 15:45:35.685000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1890.0'}Actual_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:35.688000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '18096.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1809.6'}Actual_result:'
+'{'count': '15960.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:35.691000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-42.0'}Actual_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:35.693000
+['按部门查看本年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '93786', 'goal_data': '5000', 'percentage_data': '1875.7'}Actual_result:'
+'{'count': '91686', 'goal_data': '12000', 'percentage_data': '764.1'},2019-02-19 15:45:35.696000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '3486.0'}Actual_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:35.698000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '22350.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '2235.0'}Actual_result:'
+'{'count': '22386.0', ' user_name': '产品部', 'goal_data': '12000.0', 'percentage_data': '186.6'},2019-02-19 15:45:35.700000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1890.0'}Actual_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:35.702000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '18096.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1809.6'}Actual_result:'
+'{'count': '15960.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:35.705000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-42.0'}Actual_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:35.707000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:37.484000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6360.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '636.0'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '106.6'},2019-02-19 15:45:37.487000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:37.489000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5196.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '519.6'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:37.490000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:37.491000
+['按部门查看上半年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26796', 'goal_data': '5000', 'percentage_data': '535.9'}Actual_result:'
+'{'count': '26196', 'goal_data': '6000', 'percentage_data': '436.6'},2019-02-19 15:45:37.494000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:37.495000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6360.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '636.0'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '106.6'},2019-02-19 15:45:37.496000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:37.497000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5196.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '519.6'}Actual_result:'
+'{'count': '4560.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:37.499000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:37.500000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '2490.0'}Actual_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:39.198000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '1599.0'}Actual_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '266.5'},2019-02-19 15:45:39.203000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1350.0'}Actual_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:39.205000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1290.0'}Actual_result:'
+'{'count': '11400.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:39.208000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-30.0'}Actual_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:39.210000
+['按部门1查看下半年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '66990', 'goal_data': '5000', 'percentage_data': '1339.8'}Actual_result:'
+'{'count': '65490', 'goal_data': '6000', 'percentage_data': '1091.5'},2019-02-19 15:45:39.212000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '2490.0'}Actual_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:39.214000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '1599.0'}Actual_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '266.5'},2019-02-19 15:45:39.215000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1350.0'}Actual_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:39.215000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1290.0'}Actual_result:'
+'{'count': '11400.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:39.216000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-30.0'}Actual_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:39.218000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1162.0'}Actual_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:40.887000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '7444.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '744.4'}Actual_result:'
+'{'count': '7462.0', ' user_name': '产品部', 'goal_data': '5000.0', 'percentage_data': '149.2'},2019-02-19 15:45:40.888000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '630.0'}Actual_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:40.890000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6038.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '603.8'}Actual_result:'
+'{'count': '5320.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:40.892000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-14.0'}Actual_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 15:45:40.894000
+['按部门查看4~8月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '31262', 'goal_data': '5000', 'percentage_data': '625.2'}Actual_result:'
+'{'count': '30562', 'goal_data': '5000', 'percentage_data': '611.2'},2019-02-19 15:45:40.895000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1162.0'}Actual_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:40.898000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '7444.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '744.4'}Actual_result:'
+'{'count': '7462.0', ' user_name': '产品部', 'goal_data': '5000.0', 'percentage_data': '149.2'},2019-02-19 15:45:40.899000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '630.0'}Actual_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:40.901000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6038.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '603.8'}Actual_result:'
+'{'count': '5320.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:40.903000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-14.0'}Actual_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 15:45:40.905000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:04.569000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 16:35:04.573000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:04.576000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '860.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:04.577000
+['按部门查看1月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:04.579000
+['按部门查看1月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '4466', 'goal_data': '5000', 'percentage_data': '89.3'}Actual_result:'
+'{'count': '4466', 'goal_data': '1000', 'percentage_data': '446.6'},2019-02-19 16:35:04.582000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '166.0'}Actual_result:'
+'{'count': '1660.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:04.584000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1060.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.0'}Actual_result:'
+'{'count': '1066.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '106.6'},2019-02-19 16:35:04.585000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '90.0'}Actual_result:'
+'{'count': '900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:04.589000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '866.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '86.6'}Actual_result:'
+'{'count': '860.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:04.592000
+['按部门查看1月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-2.0'}Actual_result:'
+'{'count': '-20.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:04.595000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:06.478000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 16:35:06.480000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:06.482000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1720.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:06.510000
+['按部门查看3月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:06.514000
+['按部门查看3月合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '8932', 'goal_data': '5000', 'percentage_data': '178.6'}Actual_result:'
+'{'count': '8932', 'goal_data': '1000', 'percentage_data': '893.2'},2019-02-19 16:35:06.528000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '332.0'}Actual_result:'
+'{'count': '3320.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:06.529000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2120.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '212.0'}Actual_result:'
+'{'count': '2132.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '213.2'},2019-02-19 16:35:06.534000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '180.0'}Actual_result:'
+'{'count': '1800.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:06.544000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '1732.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '173.2'}Actual_result:'
+'{'count': '1720.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:06.564000
+['按部门查看3月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-4.0'}Actual_result:'
+'{'count': '-40.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:06.566000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:08.253000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 16:35:08.256000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:08.257000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2580.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:08.258000
+['按部门查看第一季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:08.260000
+['按部门查看第一季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13398', 'goal_data': '3000', 'percentage_data': '446.6'},2019-02-19 16:35:08.262000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:08.264000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 16:35:08.266000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:08.269000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2580.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:08.271000
+['按部门查看第一季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:08.273000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:09.841000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 16:35:09.845000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:09.852000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2580.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:09.855000
+['按部门查看第二季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:09.856000
+['按部门查看第二季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '13398', 'goal_data': '5000', 'percentage_data': '268.0'}Actual_result:'
+'{'count': '13398', 'goal_data': '3000', 'percentage_data': '446.6'},2019-02-19 16:35:09.857000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '498.0'}Actual_result:'
+'{'count': '4980.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:09.858000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '3180.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '318.0'}Actual_result:'
+'{'count': '3198.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '106.6'},2019-02-19 16:35:09.859000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '270.0'}Actual_result:'
+'{'count': '2700.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:09.860000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '2598.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '259.8'}Actual_result:'
+'{'count': '2580.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:09.861000
+['按部门查看第二季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-6.0'}Actual_result:'
+'{'count': '-60.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:09.861000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:11.765000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 16:35:11.767000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:11.768000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:11.769000
+['按部门查看第三季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:11.770000
+['按部门查看第三季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '40194', 'goal_data': '5000', 'percentage_data': '803.9'}Actual_result:'
+'{'count': '40194', 'goal_data': '3000', 'percentage_data': '1339.8'},2019-02-19 16:35:11.771000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1494.0'}Actual_result:'
+'{'count': '14940.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:11.779000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '959.4'}Actual_result:'
+'{'count': '9594.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '319.8'},2019-02-19 16:35:11.784000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '810.0'}Actual_result:'
+'{'count': '8100.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:11.786000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '774.0'}Actual_result:'
+'{'count': '7740.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:11.788000
+['按部门查看第三季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-18.0'}Actual_result:'
+'{'count': '-180.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:11.791000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:13.667000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 16:35:13.673000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:13.676000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:13.678000
+['按部门查看第四季度合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:13.680000
+['按部门查看第四季度合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26796', 'goal_data': '5000', 'percentage_data': '535.9'}Actual_result:'
+'{'count': '26796', 'goal_data': '3000', 'percentage_data': '893.2'},2019-02-19 16:35:13.682000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:13.685000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '639.6'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '3000.0', 'percentage_data': '213.2'},2019-02-19 16:35:13.688000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:13.690000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '516.0'}Actual_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:13.692000
+['按部门查看第四季度合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:13.694000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '3486.0'}Actual_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:15.355000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '22350.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '2235.0'}Actual_result:'
+'{'count': '22386.0', ' user_name': '产品部', 'goal_data': '12000.0', 'percentage_data': '186.6'},2019-02-19 16:35:15.357000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1890.0'}Actual_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:15.359000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '18096.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1809.6'}Actual_result:'
+'{'count': '18060.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:15.360000
+['按部门查看本年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-42.0'}Actual_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:15.364000
+['按部门查看本年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '93786', 'goal_data': '5000', 'percentage_data': '1875.7'}Actual_result:'
+'{'count': '93786', 'goal_data': '12000', 'percentage_data': '781.6'},2019-02-19 16:35:15.366000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '3486.0'}Actual_result:'
+'{'count': '34860.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:15.367000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '22350.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '2235.0'}Actual_result:'
+'{'count': '22386.0', ' user_name': '产品部', 'goal_data': '12000.0', 'percentage_data': '186.6'},2019-02-19 16:35:15.368000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1890.0'}Actual_result:'
+'{'count': '18900.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:15.370000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '18096.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1809.6'}Actual_result:'
+'{'count': '18060.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:15.373000
+['按部门查看本年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-42.0'}Actual_result:'
+'{'count': '-420.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:15.375000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:17.007000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6360.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '636.0'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '106.6'},2019-02-19 16:35:17.009000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:17.015000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '5196.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '519.6'}Actual_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:17.017000
+['按部门查看上半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:17.028000
+['按部门查看上半年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '26796', 'goal_data': '5000', 'percentage_data': '535.9'}Actual_result:'
+'{'count': '26796', 'goal_data': '6000', 'percentage_data': '446.6'},2019-02-19 16:35:17.035000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '996.0'}Actual_result:'
+'{'count': '9960.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:17.036000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6360.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '636.0'}Actual_result:'
+'{'count': '6396.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '106.6'},2019-02-19 16:35:17.063000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '540.0'}Actual_result:'
+'{'count': '5400.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:17.068000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '5196.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '519.6'}Actual_result:'
+'{'count': '5160.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:17.070000
+['按部门查看上半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-12.0'}Actual_result:'
+'{'count': '-120.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:17.072000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '2490.0'}Actual_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:18.615000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '1599.0'}Actual_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '266.5'},2019-02-19 16:35:18.618000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1350.0'}Actual_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:18.621000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1290.0'}Actual_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:18.626000
+['按部门1查看下半年合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-30.0'}Actual_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:18.628000
+['按部门1查看下半年合同金额']中间统计排名: is wrong, expected_result:'
+'{'count': '66990', 'goal_data': '5000', 'percentage_data': '1339.8'}Actual_result:'
+'{'count': '66990', 'goal_data': '6000', 'percentage_data': '1116.5'},2019-02-19 16:35:18.630000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '2490.0'}Actual_result:'
+'{'count': '24900.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:18.633000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '1599.0'}Actual_result:'
+'{'count': '15990.0', ' user_name': '产品部', 'goal_data': '6000.0', 'percentage_data': '266.5'},2019-02-19 16:35:18.635000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '1350.0'}Actual_result:'
+'{'count': '13500.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:18.640000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '1290.0'}Actual_result:'
+'{'count': '12900.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:18.642000
+['按部门1查看下半年合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-30.0'}Actual_result:'
+'{'count': '-300.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:18.644000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1162.0'}Actual_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:20.006000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '7444.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '744.4'}Actual_result:'
+'{'count': '7462.0', ' user_name': '产品部', 'goal_data': '5000.0', 'percentage_data': '149.2'},2019-02-19 16:35:20.008000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '630.0'}Actual_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:20.010000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '6038.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '603.8'}Actual_result:'
+'{'count': '6020.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:20.012000
+['按部门查看4~8月合同金额']图表的排名: is wrong, expected_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-14.0'}Actual_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '0.0'},2019-02-19 16:35:20.014000
+['按部门查看4~8月合同金额']中间统计排名: is right 2019-02-19 16:35:20.016000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '1000.0', 'percentage_data': '1162.0'}Actual_result:'
+'{'count': '11620.0', ' user_name': '设计部子部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:20.017000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '7444.0', ' user_name': '产品部', 'goal_data': '1000.0', 'percentage_data': '744.4'}Actual_result:'
+'{'count': '7462.0', ' user_name': '产品部', 'goal_data': '5000.0', 'percentage_data': '149.2'},2019-02-19 16:35:20.020000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '1000.0', 'percentage_data': '630.0'}Actual_result:'
+'{'count': '6300.0', ' user_name': '设计部二级部门', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:20.022000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '6038.0', ' user_name': '设计部', 'goal_data': '1000.0', 'percentage_data': '603.8'}Actual_result:'
+'{'count': '6020.0', ' user_name': '设计部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:20.024000
+['按部门查看4~8月合同金额']表格排名: is wrong, expected_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '1000.0', 'percentage_data': '-14.0'}Actual_result:'
+'{'count': '-140.0', ' user_name': '销售部', 'goal_data': '0.0', 'percentage_data': '--'},2019-02-19 16:35:20.026000

@@ -1,0 +1,312 @@
+2019-01-28 18:39:54 15000249334role：超管
+2019-01-28 18:39:54: get cookie status_code is right 200  200
+2019-01-28 18:39:55: get_role_list status_code is right 200  200
+2019-01-28 18:39:56: get_role_list status_code is right 200  200
+2019-01-28 18:39:57: get_role_list status_code is right 200  200
+2019-01-28 18:39:57: get_role_list status_code is right 200  200
+2019-01-28 18:39:58: seteqwe_data_authority status_code is right 200  200
+2019-01-28 18:39:59:  status_code is right 200  200
+2019-01-28 18:39:59: get_role_list status_code is right 200  200
+2019-01-28 18:40:00: get_role_list status_code is right 200  200
+2019-01-28 18:40:01: get_role_list status_code is right 200  200
+2019-01-28 18:40:01: get_role_list status_code is right 200  200
+2019-01-28 18:40:02: seteqwe_data_authority status_code is right 200  200
+2019-01-28 18:40:02:  status_code is right 200  200
+2019-01-28 18:40:03: get_role_list status_code is right 200  200
+2019-01-28 18:40:04: get_role_list status_code is right 200  200
+2019-01-28 19:55:09 15000249334role：超管
+2019-01-28 19:55:10: get cookie status_code is right 200  200
+2019-01-28 19:55:11: get_role_list status_code is right 200  200
+2019-01-28 19:55:12: get_role_list status_code is right 200  200
+2019-01-28 19:55:13: get_role_list status_code is right 200  200
+2019-01-28 19:55:13: get_role_list status_code is right 200  200
+2019-01-28 19:55:14: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:15:  status_code is right 200  200
+2019-01-28 19:55:15: get_role_list status_code is right 200  200
+2019-01-28 19:55:16: get_role_list status_code is right 200  200
+2019-01-28 19:55:17: get_role_list status_code is right 200  200
+2019-01-28 19:55:17: get_role_list status_code is right 200  200
+2019-01-28 19:55:18: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:19:  status_code is right 200  200
+2019-01-28 19:55:19: get_role_list status_code is right 200  200
+2019-01-28 19:55:20: get_role_list status_code is right 200  200
+2019-01-28 19:55:21: get_role_list status_code is right 200  200
+2019-01-28 19:55:21: get_role_list status_code is right 200  200
+2019-01-28 19:55:22: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:23:  status_code is right 200  200
+2019-01-28 19:55:23: get_role_list status_code is right 200  200
+2019-01-28 19:55:24: get_role_list status_code is right 200  200
+2019-01-28 19:55:25: get_role_list status_code is right 200  200
+2019-01-28 19:55:25: get_role_list status_code is right 200  200
+2019-01-28 19:55:26: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:26:  status_code is right 200  200
+2019-01-28 19:55:27: get_role_list status_code is right 200  200
+2019-01-28 19:55:28: get_role_list status_code is right 200  200
+2019-01-28 19:55:28: get_role_list status_code is right 200  200
+2019-01-28 19:55:29: get_role_list status_code is right 200  200
+2019-01-28 19:55:30: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:30:  status_code is right 200  200
+2019-01-28 19:55:31: get_role_list status_code is right 200  200
+2019-01-28 19:55:32: get_role_list status_code is right 200  200
+2019-01-28 19:55:32: get_role_list status_code is right 200  200
+2019-01-28 19:55:33: get_role_list status_code is right 200  200
+2019-01-28 19:55:34: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:34:  status_code is right 200  200
+2019-01-28 19:55:35: get_role_list status_code is right 200  200
+2019-01-28 19:55:35: get_role_list status_code is right 200  200
+2019-01-28 19:55:36: get_role_list status_code is right 200  200
+2019-01-28 19:55:37: get_role_list status_code is right 200  200
+2019-01-28 19:55:37: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:38:  status_code is right 200  200
+2019-01-28 19:55:38: get_role_list status_code is right 200  200
+2019-01-28 19:55:39: get_role_list status_code is right 200  200
+2019-01-28 19:55:40: get_role_list status_code is right 200  200
+2019-01-28 19:55:40: get_role_list status_code is right 200  200
+2019-01-28 19:55:41: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:41:  status_code is right 200  200
+2019-01-28 19:55:42: get_role_list status_code is right 200  200
+2019-01-28 19:55:43: get_role_list status_code is right 200  200
+2019-01-28 19:55:43: get_role_list status_code is right 200  200
+2019-01-28 19:55:44: get_role_list status_code is right 200  200
+2019-01-28 19:55:45: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:45:  status_code is right 200  200
+2019-01-28 19:55:46: get_role_list status_code is right 200  200
+2019-01-28 19:55:46: get_role_list status_code is right 200  200
+2019-01-28 19:55:47: get_role_list status_code is right 200  200
+2019-01-28 19:55:48: get_role_list status_code is right 200  200
+2019-01-28 19:55:48: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:49:  status_code is right 200  200
+2019-01-28 19:55:49: get_role_list status_code is right 200  200
+2019-01-28 19:55:50: get_role_list status_code is right 200  200
+2019-01-28 19:55:51: get_role_list status_code is right 200  200
+2019-01-28 19:55:51: get_role_list status_code is right 200  200
+2019-01-28 19:55:52: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:52:  status_code is right 200  200
+2019-01-28 19:55:53: get_role_list status_code is right 200  200
+2019-01-28 19:55:54: get_role_list status_code is right 200  200
+2019-01-28 19:55:54: get_role_list status_code is right 200  200
+2019-01-28 19:55:55: get_role_list status_code is right 200  200
+2019-01-28 19:55:56: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:55:56:  status_code is right 200  200
+2019-01-28 19:55:57: get_role_list status_code is right 200  200
+2019-01-28 19:55:58: get_role_list status_code is right 200  200
+2019-01-28 19:55:58: get_role_list status_code is right 200  200
+2019-01-28 19:55:59: get_role_list status_code is right 200  200
+2019-01-28 19:56:00: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:00:  status_code is right 200  200
+2019-01-28 19:56:01: get_role_list status_code is right 200  200
+2019-01-28 19:56:01: get_role_list status_code is right 200  200
+2019-01-28 19:56:02: get_role_list status_code is right 200  200
+2019-01-28 19:56:03: get_role_list status_code is right 200  200
+2019-01-28 19:56:03: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:04:  status_code is right 200  200
+2019-01-28 19:56:04: get_role_list status_code is right 200  200
+2019-01-28 19:56:05: get_role_list status_code is right 200  200
+2019-01-28 19:56:06: get_role_list status_code is right 200  200
+2019-01-28 19:56:06: get_role_list status_code is right 200  200
+2019-01-28 19:56:07: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:07:  status_code is right 200  200
+2019-01-28 19:56:08: get_role_list status_code is right 200  200
+2019-01-28 19:56:09: get_role_list status_code is right 200  200
+2019-01-28 19:56:09: get_role_list status_code is right 200  200
+2019-01-28 19:56:10: get_role_list status_code is right 200  200
+2019-01-28 19:56:11: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:11:  status_code is right 200  200
+2019-01-28 19:56:12: get_role_list status_code is right 200  200
+2019-01-28 19:56:12: get_role_list status_code is right 200  200
+2019-01-28 19:56:13: get_role_list status_code is right 200  200
+2019-01-28 19:56:14: get_role_list status_code is right 200  200
+2019-01-28 19:56:14: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:15:  status_code is right 200  200
+2019-01-28 19:56:15: get_role_list status_code is right 200  200
+2019-01-28 19:56:16: get_role_list status_code is right 200  200
+2019-01-28 19:56:17: get_role_list status_code is right 200  200
+2019-01-28 19:56:18: get_role_list status_code is right 200  200
+2019-01-28 19:56:19: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:19:  status_code is right 200  200
+2019-01-28 19:56:20: get_role_list status_code is right 200  200
+2019-01-28 19:56:20: get_role_list status_code is right 200  200
+2019-01-28 19:56:21: get_role_list status_code is right 200  200
+2019-01-28 19:56:22: get_role_list status_code is right 200  200
+2019-01-28 19:56:23: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:23:  status_code is right 200  200
+2019-01-28 19:56:24: get_role_list status_code is right 200  200
+2019-01-28 19:56:24: get_role_list status_code is right 200  200
+2019-01-28 19:56:25: get_role_list status_code is right 200  200
+2019-01-28 19:56:26: get_role_list status_code is right 200  200
+2019-01-28 19:56:27: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:27:  status_code is right 200  200
+2019-01-28 19:56:28: get_role_list status_code is right 200  200
+2019-01-28 19:56:29: get_role_list status_code is right 200  200
+2019-01-28 19:56:29: get_role_list status_code is right 200  200
+2019-01-28 19:56:30: get_role_list status_code is right 200  200
+2019-01-28 19:56:31: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:31:  status_code is right 200  200
+2019-01-28 19:56:32: get_role_list status_code is right 200  200
+2019-01-28 19:56:33: get_role_list status_code is right 200  200
+2019-01-28 19:56:34: get_role_list status_code is right 200  200
+2019-01-28 19:56:34: get_role_list status_code is right 200  200
+2019-01-28 19:56:35: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:35:  status_code is right 200  200
+2019-01-28 19:56:36: get_role_list status_code is right 200  200
+2019-01-28 19:56:37: get_role_list status_code is right 200  200
+2019-01-28 19:56:37: get_role_list status_code is right 200  200
+2019-01-28 19:56:38: get_role_list status_code is right 200  200
+2019-01-28 19:56:39: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:56:39:  status_code is right 200  200
+2019-01-28 19:56:40: get_role_list status_code is right 200  200
+2019-01-28 19:56:41: get_role_list status_code is right 200  200
+2019-01-28 19:59:38 15000249334role：超管
+2019-01-28 19:59:39: get cookie status_code is right 200  200
+2019-01-28 19:59:42: get_role_list status_code is right 200  200
+2019-01-28 19:59:43: get_role_list status_code is right 200  200
+2019-01-28 19:59:43: get_role_list status_code is right 200  200
+2019-01-28 19:59:44: get_role_list status_code is right 200  200
+2019-01-28 19:59:45: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:59:45:  status_code is right 200  200
+2019-01-28 19:59:46: get_role_list status_code is right 200  200
+2019-01-28 19:59:47: get_role_list status_code is right 200  200
+2019-01-28 19:59:47: get_role_list status_code is right 200  200
+2019-01-28 19:59:48: get_role_list status_code is right 200  200
+2019-01-28 19:59:49: seteqwe_data_authority status_code is right 200  200
+2019-01-28 19:59:49:  status_code is right 200  200
+2019-01-28 19:59:50: get_role_list status_code is right 200  200
+2019-01-28 19:59:51: get_role_list status_code is right 200  200
+2019-01-28 19:59:51: get_role_list status_code is right 200  200
+2019-01-28 19:59:52: get_role_list status_code is right 200  200
+2019-01-28 19:59:53: seteqwe_data_authority status_code is right 200  200
+2019-01-28 20:00:23 15000249334role：超管
+2019-01-28 20:00:24: get cookie status_code is right 200  200
+2019-01-28 20:00:26: get_role_list status_code is right 200  200
+2019-01-28 20:00:26: get_role_list status_code is right 200  200
+2019-01-28 20:00:27: get_role_list status_code is right 200  200
+2019-01-28 20:00:28: get_role_list status_code is right 200  200
+2019-01-28 20:00:29: seteqwe_data_authority status_code is right 200  200
+2019-01-28 20:00:29:  status_code is right 200  200
+2019-01-28 20:00:30: get_role_list status_code is right 200  200
+2019-01-28 20:00:30: get_role_list status_code is right 200  200
+2019-01-28 20:00:31: get_role_list status_code is right 200  200
+2019-01-28 20:00:32: get_role_list status_code is right 200  200
+2019-01-28 20:00:33: seteqwe_data_authority status_code is right 200  200
+2019-01-28 20:00:33:  status_code is right 200  200
+2019-01-28 20:00:34: get_role_list status_code is right 200  200
+2019-01-28 20:00:35: get_role_list status_code is right 200  200
+2019-01-28 20:00:35: get_role_list status_code is right 200  200
+2019-01-28 20:00:36: get_role_list status_code is right 200  200
+2019-01-28 20:00:37: seteqwe_data_authority status_code is right 200  200
+2019-01-28 20:00:37:  status_code is right 200  200
+2019-01-28 20:00:38: get_role_list status_code is right 200  200
+2019-01-28 20:00:39: get_role_list status_code is right 200  200
+2019-01-28 20:00:39: get_role_list status_code is right 200  200
+2019-01-28 20:00:40: get_role_list status_code is right 200  200
+2019-01-28 20:00:41: seteqwe_data_authority status_code is right 200  200
+2019-01-28 20:00:41:  status_code is right 200  200
+2019-01-28 20:00:42: get_role_list status_code is right 200  200
+2019-01-28 20:00:43: get_role_list status_code is right 200  200
+2019-01-28 20:00:43: get_role_list status_code is right 200  200
+2019-01-28 20:00:44: get_role_list status_code is right 200  200
+2019-01-28 20:00:45: seteqwe_data_authority status_code is right 200  200
+2019-01-28 20:00:45:  status_code is right 200  200
+2019-01-28 20:00:46: get_role_list status_code is right 200  200
+2019-01-28 20:00:47: get_role_list status_code is right 200  200
+2019-01-28 20:00:47: get_role_list status_code is right 200  200
+2019-01-28 20:00:48: get_role_list status_code is right 200  200
+2019-01-28 20:00:49: seteqwe_data_authority status_code is right 200  200
+2019-01-28 20:00:49:  status_code is right 200  200
+2019-01-28 20:00:50: get_role_list status_code is right 200  200
+2019-01-28 20:00:51: get_role_list status_code is right 200  200
+2019-01-28 20:00:52: get_role_list status_code is right 200  200
+2019-01-28 20:00:53: get_role_list status_code is right 200  200
+2019-01-28 20:00:54: seteqwe_data_authority status_code is right 200  200
+2019-01-28 20:00:54:  status_code is right 200  200
+2019-01-28 20:00:55: get_role_list status_code is right 200  200
+2019-02-17 09:21:41 18049905933role：超管
+2019-02-17 09:21:41: get cookie status_code is right 200  200
+2019-02-17 09:21:42:  status_code is right 200  200
+2019-02-17 09:21:43 18049905933role：超管
+2019-02-17 09:21:43: get cookie status_code is right 200  200
+2019-02-17 09:21:44:  status_code is right 200  200
+2019-02-17 09:21:44 18049905933role：超管
+2019-02-17 09:21:45: get cookie status_code is right 200  200
+2019-02-17 09:21:46:  status_code is right 200  200
+2019-02-17 09:21:46 18049905933role：超管
+2019-02-17 09:21:46: get cookie status_code is right 200  200
+2019-02-17 09:21:47:  status_code is right 200  200
+2019-02-17 09:21:47 18049905933role：超管
+2019-02-17 09:21:48: get cookie status_code is right 200  200
+2019-02-17 09:21:49:  status_code is right 200  200
+2019-02-17 09:21:49 18049905933role：超管
+2019-02-17 09:21:50: get cookie status_code is right 200  200
+2019-02-17 09:21:50:  status_code is right 200  200
+2019-02-17 09:21:51 18049905933role：超管
+2019-02-17 09:21:51: get cookie status_code is right 200  200
+2019-02-17 09:21:52:  status_code is right 200  200
+2019-02-17 09:21:52 18049905933role：超管
+2019-02-17 09:21:53: get cookie status_code is right 200  200
+2019-02-17 09:21:54:  status_code is right 200  200
+2019-02-17 09:21:54 18049905933role：超管
+2019-02-17 09:21:54: get cookie status_code is right 200  200
+2019-02-17 09:21:55:  status_code is right 200  200
+2019-02-17 09:21:56 18049905933role：超管
+2019-02-17 09:21:56: get cookie status_code is right 200  200
+2019-02-17 09:21:57:  status_code is right 200  200
+2019-02-17 09:23:20 18049905933role：超管
+2019-02-17 09:23:21: get cookie status_code is right 200  200
+2019-02-17 09:23:22:  status_code is right 200  200
+2019-02-17 09:23:22 18049905933role：超管
+2019-02-17 09:23:22: get cookie status_code is right 200  200
+2019-02-17 09:23:23:  status_code is right 200  200
+2019-02-17 09:23:24 18049905933role：超管
+2019-02-17 09:23:24: get cookie status_code is right 200  200
+2019-02-17 09:23:25:  status_code is right 200  200
+2019-02-17 09:23:25 18049905933role：超管
+2019-02-17 09:23:26: get cookie status_code is right 200  200
+2019-02-17 09:23:26:  status_code is right 200  200
+2019-02-17 09:23:27 18049905933role：超管
+2019-02-17 09:23:27: get cookie status_code is right 200  200
+2019-02-17 09:23:28:  status_code is right 200  200
+2019-02-17 09:23:28 18049905933role：超管
+2019-02-17 09:23:29: get cookie status_code is right 200  200
+2019-02-17 09:23:29:  status_code is right 200  200
+2019-02-17 09:23:30 18049905933role：超管
+2019-02-17 09:23:30: get cookie status_code is right 200  200
+2019-02-17 09:23:31:  status_code is right 200  200
+2019-02-17 09:23:31 18049905933role：超管
+2019-02-17 09:23:32: get cookie status_code is right 200  200
+2019-02-17 09:23:33:  status_code is right 200  200
+2019-02-17 09:23:33 18049905933role：超管
+2019-02-17 09:23:33: get cookie status_code is right 200  200
+2019-02-17 09:23:34:  status_code is right 200  200
+2019-02-17 09:23:35 18049905933role：超管
+2019-02-17 09:23:35: get cookie status_code is right 200  200
+2019-02-17 09:23:36:  status_code is right 200  200
+2019-02-17 09:42:45 18049905933role：超管
+2019-02-17 09:42:45: get cookie status_code is right 200  200
+2019-02-17 09:42:46:  status_code is right 200  200
+2019-02-17 09:42:46 18049905933role：超管
+2019-02-17 09:42:47: get cookie status_code is right 200  200
+2019-02-17 09:42:47:  status_code is right 200  200
+2019-02-17 09:42:48 18049905933role：超管
+2019-02-17 09:42:48: get cookie status_code is right 200  200
+2019-02-17 09:42:49:  status_code is right 200  200
+2019-02-17 09:42:49 18049905933role：超管
+2019-02-17 09:42:50: get cookie status_code is right 200  200
+2019-02-17 09:42:51:  status_code is right 200  200
+2019-02-17 09:42:51 18049905933role：超管
+2019-02-17 09:42:52: get cookie status_code is right 200  200
+2019-02-17 09:42:53:  status_code is right 200  200
+2019-02-17 09:42:53 18049905933role：超管
+2019-02-17 09:42:53: get cookie status_code is right 200  200
+2019-02-17 09:42:54:  status_code is right 200  200
+2019-02-17 09:42:55 18049905933role：超管
+2019-02-17 09:42:55: get cookie status_code is right 200  200
+2019-02-17 09:42:56:  status_code is right 200  200
+2019-02-17 09:42:56 18049905933role：超管
+2019-02-17 09:42:57: get cookie status_code is right 200  200
+2019-02-17 09:42:57:  status_code is right 200  200
+2019-02-17 09:42:58 18049905933role：超管
+2019-02-17 09:42:58: get cookie status_code is right 200  200
+2019-02-17 09:42:59:  status_code is right 200  200
+2019-02-17 09:42:59 18049905933role：超管
+2019-02-17 09:43:00: get cookie status_code is right 200  200
+2019-02-17 09:43:01:  status_code is right 200  200
